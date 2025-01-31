@@ -3,7 +3,7 @@ function formatMessage(message, maxLength) {
        
 }
 
-}
+
 
 
 console.log(formatMessage("Curabitur ligula sapien", 16)); // "Curabitur ligula..."
